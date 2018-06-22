@@ -4,6 +4,7 @@
  ** 调用：accAdd(arg1,arg2)
  ** 返回值：arg1加上arg2的精确结果
  **/
+
 function accAdd(arg1, arg2) {
   var r1, r2, m, c
   try {
