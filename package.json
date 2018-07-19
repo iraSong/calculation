@@ -1,0 +1,23 @@
+{
+  "name": "calculation",
+  "version": "1.0.0",
+  "description": "js小数计算",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iraSong/calculation.git"
+  },
+  "keywords": [
+    "js小数计算",
+    "calculation"
+  ],
+  "author": "ira song",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iraSong/calculation/issues"
+  },
+  "homepage": "https://github.com/iraSong/calculation#readme"
+}
